@@ -1,0 +1,5 @@
+# ==============================================================================
+# chunking_engine — Standalone Package Requirements
+# ==============================================================================
+# Runs 100% on the Python Standard Library (re, json, dataclasses, collections,
+# pathlib, http.server). Zero external third-party packages are required.
